@@ -1,0 +1,16 @@
+---
+title: "ジョイフル本田でTポイント最大777ポイント"
+date: 2020-01-31T23:03:35+09:00
+featured_image: "/posts/20200229_tpoint_joyfulhonda.md.png"
+start: 2020-02-01
+end: 2020-02-29
+tags: ["tpoint","ジョイフル本田"]
+---
+
+2月1日から2月29日まで、ジョイフル本田でTポイントが貯まるキャンペーンです。お買い物1000円ごとにスタンプが１個で、スタンプの数に応じてTポイントが貰えるのですが、スタンプ30個（＝3万円）で777ポイントということで実質2.59％です。ちょっと地味ですね。
+
+でも、ドラッグストアより大きい買い物をする機会でTポイントが貯まるところって少ないので、覚えておくとお得かも。
+
+https://tsite.jp/cp/index.pl?xpg=PCIC0102&cp_id=23383
+
+[Googleカレンダー](http://www.google.com/calendar/event?action=TEMPLATE&text=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB%E6%9C%AC%E7%94%B0%E3%81%A7T%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E6%9C%80%E5%A4%A7777%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&dates=20200201/20200229&details=http://pokanpo.skr.jp/posts/20200229_tpoint_joyfulhonda/)

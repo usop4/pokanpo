@@ -1,0 +1,10 @@
+---
+title: "KEYUCAでLINE会員10%OFF"
+date: 2020-02-14T18:29:17+09:00
+featured_image: "/posts/20200224_line_keyuca.md.png"
+start: 2020-02-14
+end: 2020-02-24
+tags: ["keyuca","line"]
+---
+
+02月14日から02月24日までケユカで10%OFFです。LINEで友達になればクーポンが送られてくるというタイプです。ぜんぜんキャッシュレスじゃないですが、個人的にKEYUCA好きなので。
