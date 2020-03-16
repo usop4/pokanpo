@@ -7,7 +7,7 @@ date: 2020-01-01T00:00:01+09:00
 
 ![](/images/all.png)
 
-また、位置情報をもとにお得情報を表示するスマートフォン用ビューア[Pokanpo Here](https://pokanpo.com/here.html)も用意してますので、ご利用ください。
+位置情報をもとにお得情報を表示するスマートフォン用ビューア[Pokanpo Here](https://pokanpo.com/here.html)も用意してますので、ご利用ください。
 
 キャッシュレス
 
