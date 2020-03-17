@@ -1,7 +1,6 @@
 ---
 title: "セブンイレブンで午後の紅茶を買うとLINEポイント50ポイント"
 date: 2019-11-05T18:40:11+09:00
-featured_image: "/posts/20191124_line_seveneleven.md.png"
 start: 2019-11-11
 end: 2019-11-24
 tags: ["セブンイレブン","line"]

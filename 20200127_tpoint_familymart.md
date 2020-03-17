@@ -1,7 +1,6 @@
 ---
 title: "Tポイント連携したファミペイを提示して50ポイント、ファミペイ払いで10%還元"
 date: 2020-01-06T21:07:59+09:00
-featured_image: "/posts/20200127_tpoint_familymart.md.png"
 start: 2020-01-07
 end: 2020-01-27
 rate: 5

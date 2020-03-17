@@ -1,7 +1,6 @@
 ---
 title: "PayPayで最大10%戻ってくるローソンおトクWeek"
 date: 2020-01-14T22:24:49+09:00
-featured_image: "/posts/20200127_paypay_lawson.md.png"
 start: 2020-01-21
 end: 2020-01-27
 rate: 10

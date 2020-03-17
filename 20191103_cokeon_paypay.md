@@ -4,7 +4,6 @@ date: 2019-09-29T00:00:00+09:00
 start: 2019-10-07
 end: 2019-11-03
 tags: ["PayPay","CokeOn"]
-featured_image: "/posts/20191103_cokeon_paypay.md.png"
 ---
 
 ![](/posts/20191103_cokeon_paypay.md.png)

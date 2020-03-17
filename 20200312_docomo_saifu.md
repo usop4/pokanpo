@@ -1,7 +1,6 @@
 ---
 title: "d払いで3.12=ウォレットの日50%還元"
 date: 2020-03-09T21:50:09+09:00
-featured_image: "/posts/20200312_docomo_saifu.md.png"
 start: 2020-03-12
 end: 2020-03-12
 tags: ["docomo"]

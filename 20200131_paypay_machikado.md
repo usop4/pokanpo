@@ -1,7 +1,6 @@
 ---
 title: "まちかどペイペイ第２弾、20回に1回の確率で最大1000円相当"
 date: 2019-11-08T22:29:36+09:00
-featured_image: "/posts/20200131_paypay_machikado.md.png"
 start: 2019-12-01
 end: 2020-01-31
 tags: ["paypay"]

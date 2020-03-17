@@ -1,7 +1,6 @@
 ---
 title: "マツモトキヨシがLINE Pay対応で200円割引クーポン"
 date: 2019-10-30T19:35:22+09:00
-featured_image: "/posts/20191231_line_matsukiyo.md.png"
 start: 2019-11-16
 end: 2019-12-31
 tags: ["line","マツモトキヨシ"]

@@ -1,7 +1,6 @@
 ---
 title: "かっぱ寿司でdポイント7倍"
 date: 2020-02-18T22:22:57+09:00
-featured_image: "/posts/20200331_dpoint_kappa.md.png"
 start: 2020-02-15
 end: 2020-02-29
 tags: ["dpoint","かっぱ寿司"]

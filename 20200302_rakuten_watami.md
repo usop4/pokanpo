@@ -1,7 +1,6 @@
 ---
 title: "ワタミグループで楽天ペイ5%還元"
 date: 2020-02-08T11:05:56+09:00
-featured_image: "/posts/20200302_rakuten_watami.md.png"
 start: 2020-02-03
 end: 2020-03-02
 rate: 5

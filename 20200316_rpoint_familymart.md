@@ -1,7 +1,6 @@
 ---
 title: "ファミリーマートで楽天ポイント10倍"
 date: 2020-02-18T22:37:10+09:00
-featured_image: "/posts/20200316_rpoint_familymart.md.png"
 start: 2020-02-25
 end: 2020-03-16
 tags: ["rpoint","ファミリーマート"]

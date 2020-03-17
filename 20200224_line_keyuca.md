@@ -1,7 +1,6 @@
 ---
 title: "KEYUCAでLINE会員10%OFF"
 date: 2020-02-14T18:29:17+09:00
-featured_image: "/posts/20200224_line_keyuca.md.png"
 start: 2020-02-14
 end: 2020-02-24
 tags: ["keyuca","line"]

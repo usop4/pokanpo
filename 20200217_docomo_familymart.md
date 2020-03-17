@@ -1,7 +1,6 @@
 ---
 title: "ファミリーマートでdポイント40倍"
 date: 2020-01-27T23:15:50+09:00
-featured_image: "/posts/20200217_docomo_familymart.md.png"
 start: 2020-01-28
 end: 2020-02-17
 rate: 20

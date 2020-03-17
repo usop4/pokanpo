@@ -1,7 +1,6 @@
 ---
 title: "はま寿司でdポイント最大30倍キャンペーン"
 date: 2020-02-11T00:00:00+09:00
-featured_image: "/posts/20200304_docomo_hamazushi.md.png"
 start: 2020-01-30
 end: 2020-03-04
 rate: 2.5

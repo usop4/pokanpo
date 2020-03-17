@@ -1,9 +1,9 @@
 ---
 title: "メルペイでコンビニフィーバー７時〜１３時で20%還元"
 date: 2020-02-28T06:44:31+09:00
-featured_image: "/posts/20200331_merpay_convenience.md.png"
 start: 2020-03-01
 end: 2020-03-31
+featured_image: "/posts/20200331_merpay_convenience.md.png"
 tags: ["merpay","セブンイレブン","ローソン","ファミリーマート"]
 rate: 20
 limit: 300

@@ -1,7 +1,6 @@
 ---
 title: "コンビニでd払い10%還元キャンペーン"
 date: 2020-01-20T21:23:21+09:00
-featured_image: "/posts/20200216_docomo_cvs.md.png"
 start: 2020-02-03
 end: 2020-02-16
 rate: 10

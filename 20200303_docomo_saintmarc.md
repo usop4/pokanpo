@@ -1,7 +1,6 @@
 ---
 title: "サンマルクカフェでdポイントが3と0と9の火に９倍"
 date: 2020-02-09T19:23:46+09:00
-featured_image: "/posts/20200303_docomo_saintmarc.md.png"
 start: 2020-01-09
 end: 2020-03-03
 dates: 2020-02-23,2020-02-29,2020-03-03

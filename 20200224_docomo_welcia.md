@@ -1,7 +1,6 @@
 ---
 title: "ウエルシアでd払い土・日・月だけ10%還元"
 date: 2020-02-11T23:28:00+09:00
-featured_image: "/posts/20200224_docomo_welcia.md.png"
 start: 2020-02-08
 end: 2020-02-24
 tags: ["docomo","ウエルシア"]

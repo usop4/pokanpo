@@ -1,7 +1,6 @@
 ---
 title: "ダイソーでPayPay払いすると100円戻ってくる"
 date: 2019-11-29T23:09:00+09:00
-featured_image: "/posts/20191223_paypay_daiso.md.png"
 start: 2019-12-17
 end: 2019-12-23
 tags: ["ダイソー","paypay"]

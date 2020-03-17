@@ -1,7 +1,6 @@
 ---
 title: "Joshinでd払い+20倍還元"
 date: 2020-01-16T23:55:35+09:00
-featured_image: "/posts/20200202_docomo_joshin.md.png"
 start: 2020-01-07
 end: 2020-02-02
 rate: 10

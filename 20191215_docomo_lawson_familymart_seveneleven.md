@@ -1,7 +1,6 @@
 ---
 title: "コンビニ限定d払い10%キャンペーン"
 date: 2019-11-20T22:20:19+09:00
-featured_image: "/posts/20191215_docomo_lawson_familymart_seveneleven.md.png"
 start: 2019-12-02
 end: 2019-12-15
 rate: 10

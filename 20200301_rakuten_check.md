@@ -1,7 +1,6 @@
 ---
 title: "楽天チェックと楽天ポイントカードで100万ポイント山分け"
 date: 2020-02-02T18:49:27+09:00
-featured_image: "/posts/20200301_rakuten_check.md.png"
 start: 2020-01-28
 end: 2020-03-01
 tags: ["rakuten","ローソン","マツモトキヨシ","Joshin",]

@@ -1,7 +1,6 @@
 ---
 title: "東急ハンズでdポイントクラブ会員限定5%OFFクーポン"
 date: 2019-10-28T00:46:12+09:00
-featured_image: "/posts/20191130_docomo_hands.md.png"
 start: 2019-10-01
 end: 2019-11-30
 rate: 5

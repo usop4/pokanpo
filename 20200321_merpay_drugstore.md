@@ -1,9 +1,9 @@
 ---
 title: "メルペイでドラッグストアフィーバー最大50%還元"
 date: 2020-02-28T06:48:58+09:00
-featured_image: "/posts/20200321_merpay_drugstore.md.png"
 start: 2020-03-01
 end: 2020-03-21
+featured_image: "/posts/20200321_merpay_drugstore.md.png"
 tags: ["merpay","ぱぱす","ウエルシア","ココカラファイン","サンドラッグ","スギ薬局","セイムス","ダイコク","ダイコクドラッグ","トモズ","マツモトキヨシ","ライフ"]
 rate: 50
 limit: 500

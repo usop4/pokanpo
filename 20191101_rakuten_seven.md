@@ -4,7 +4,6 @@ date: 2019-09-30T21:03:43+09:00
 start: 2019-10-01
 end: 2019-11-01
 tags: ["rakuten","セブンイレブン"]
-featured_image: "/posts/20191101_rakuten_seven.md.png"
 ---
 
 セブンイレブンは8月にLINE Pay、PayPay、メルペイの三者合同キャンペーンをしてましたが、2ヶ月遅れで楽天も参入ということで、ちょっと条件も変わってます。

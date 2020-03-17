@@ -1,7 +1,6 @@
 ---
 title: "セイムス等、富士薬品グループで楽天ペイ5%ポイントバック"
 date: 2019-11-01T22:08:06+09:00
-featured_image: "/posts/20191115_rakuten_seims.md.png"
 start: 2019-11-01
 end: 2019-11-15
 rate: 5

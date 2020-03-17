@@ -1,7 +1,6 @@
 ---
 title: "毎日合計1,000万円相当が当たるPayPayくじ"
 date: 2019-10-27T21:40:17+09:00
-featured_image: "/posts/20191031_paypay_kuji.md.png"
 start: 2019-10-25
 end: 2019-10-31
 tags: ["paypay"]

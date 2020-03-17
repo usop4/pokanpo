@@ -1,7 +1,6 @@
 ---
 title: "d払いでドラッグストア10%還元"
 date: 2019-12-21T10:48:18+09:00
-featured_image: "/posts/20200202_docomo_dragstore.md.png"
 start: 2020-01-20
 end: 2020-02-02
 rate: 10

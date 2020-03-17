@@ -1,7 +1,6 @@
 ---
 title: "ファミリーマートでdポイント20%還元"
 date: 2019-11-28T22:21:02+09:00
-featured_image: "/posts/20191225_docomo_familymart.md.png"
 start: 2019-12-03
 end: 2019-12-25
 rate: 20

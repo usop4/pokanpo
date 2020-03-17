@@ -1,7 +1,6 @@
 ---
 title: "メルカリでd払いすると10%還元"
 date: 2020-02-08T11:18:58+09:00
-featured_image: "/posts/20200224_mercari_docomo.md.png"
 start: 2020-02-01
 end: 2020-02-28
 rate: 5

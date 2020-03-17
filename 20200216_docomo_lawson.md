@@ -1,7 +1,6 @@
 ---
 title: "ローソンでdポイント20倍"
 date: 2020-01-28T06:58:21+09:00
-featured_image: "/posts/20200216_docomo_lawson.md.png"
 start: 2020-02-03
 end: 2020-02-16
 rate: 10

@@ -4,7 +4,6 @@ date: 2019-09-30T22:20:59+09:00
 start: 2019-09-02
 end: 2019-10-31
 tags: ["LINE","KIRIN","Tappiness"]
-featured_image: "/posts/20191031_line_kirin.md.png"
 ---
 
 Coke On(コカ・コーラ)のLINE、PayPay対応に対抗し、KIRINもTappinessという自販機がLINE Payキャンペーン中です。

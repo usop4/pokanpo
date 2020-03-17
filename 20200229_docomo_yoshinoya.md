@@ -1,7 +1,6 @@
 ---
 title: "吉野家でd払い20%還元"
 date: 2020-02-02T13:32:29+09:00
-featured_image: "/posts/20200229_docomo_yoshinoya.md.png"
 start: 2020-02-01
 end: 2020-02-29
 rate: 20

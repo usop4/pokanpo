@@ -1,7 +1,6 @@
 ---
 title: "和民、三代目鳥メロ、ミライザカで楽天ペイ5%ポイントバック"
 date: 2019-11-01T21:46:06+09:00
-featured_image: "/posts/20191202_rakuten_watami.md.png"
 start: 2019-11-01
 end: 2019-12-02
 rate: 5

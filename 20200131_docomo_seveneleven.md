@@ -1,7 +1,6 @@
 ---
 title: "セブンイレブンでd払い20&還元"
 date: 2020-01-10T22:28:50+09:00
-featured_image: "/posts/20200131_docomo_seveneleven.md.png"
 start: 2020-01-10
 end: 2020-01-31
 rate: 20

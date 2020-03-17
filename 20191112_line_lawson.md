@@ -1,7 +1,6 @@
 ---
 title: "ローソンでLINEを開くとLINEポイント最大100ポイント"
 date: 2019-10-24T21:53:04+09:00
-featured_image: "/posts/20191119_line_lawson.md.png"
 start: 2019-10-22
 end: 2019-11-12
 tags: ["LINE","ローソン","ビーコン"]

@@ -1,7 +1,6 @@
 ---
 title: "丸善ジュンク堂で楽天ポイント３倍"
 date: 2020-02-18T22:44:19+09:00
-featured_image: "/posts/20200220_rpoint_maruzen.md.png"
 start: 2020-02-07
 end: 2020-02-20
 tags: ["rakuten","rpoint","丸善","ジュンク堂"]

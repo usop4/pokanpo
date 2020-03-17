@@ -1,7 +1,6 @@
 ---
 title: "セブンイレブンでd払い10%還元"
 date: 2019-11-15T19:58:55+09:00
-featured_image: "/posts/20191201_docomo_seveneleven.md.png"
 start: 2019-11-14
 end: 2019-12-01
 rate: 10

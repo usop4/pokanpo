@@ -1,9 +1,9 @@
 ---
 title: "ガストでPayPay10%戻ってくる"
 date: 2020-02-28T00:00:00+09:00
-featured_image: "/posts/20200331_paypay_gusto.md.png"
 start: 2020-03-04
 end: 2020-03-31
+featured_image: "/posts/20200331_paypay_gusto.md.png"
 rate: 10
 limit: 500
 tags: ["paypay","ガスト"]

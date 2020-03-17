@@ -1,7 +1,6 @@
 ---
 title: "ジョイフル本田でTポイント最大777ポイント"
 date: 2020-01-31T23:03:35+09:00
-featured_image: "/posts/20200229_tpoint_joyfulhonda.md.png"
 start: 2020-02-01
 end: 2020-02-29
 tags: ["tpoint","ジョイフル本田"]
