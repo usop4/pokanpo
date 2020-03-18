@@ -12,6 +12,7 @@ title: "まちかどペイペイ第３弾（消費者還元５％＋PayPay５％
 date: 2020-03-05T20:47:48+09:00
 start: 2020-04-01
 end: 2020-04-30
+featured_image: "/posts/README.md.png"
 tags: ["paypay"]
 rate: 5
 limit: 250
