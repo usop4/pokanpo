@@ -3,6 +3,7 @@ title: "dポイント、たまりモス！つかえモス！（30倍）"
 date: 2020-03-21 08:07:19+0900
 start: 2020-03-24
 end: 2020-03-31
+featured_image: "/posts/20200331_dpoint_mos.md.png"
 tags: ["dpoint","モスバーガー"]
 rate: 15
 limit: 2500
