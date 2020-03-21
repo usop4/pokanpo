@@ -13,3 +13,7 @@ tags: ["paypay","tpoint","ウエルシア"]
 ウエルシアのアプリは、どこかのクーポンもないしポイントもたまらないアプリと違って、ちゃんとインストールしておくとお得になるところがいいですね。欲を言うとGotchaのくじ引きが使いにくくて一度も使ったことがないぐらいかな。
 
 https://web.tsite.jp/cpn/mbt/2020/wel20/index.html
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【本日より開始】ウエルシア、Tポイントが2倍に 水曜日はPayPay決済で3倍<br> 　<a href="https://t.co/KCMxWJR6eH">https://t.co/KCMxWJR6eH</a></p>&mdash; BITDAYS編集部 (@bitdays_jp) <a href="https://twitter.com/bitdays_jp/status/1233981548992417793?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
