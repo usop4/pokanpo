@@ -47,6 +47,10 @@
     "basic":"プロン党Edy-楽天ポイントカードは500円かかるけどドリンクが10%OFFだったりハイボールやワインがアップグレードする月１〜２回は通うなら持っておきたいカード",
     "link":"https://www.pronto.co.jp/enjoy/memberscard.html"
   },
+  "すき家":{
+    "basic":"店舗数日本一のすき家は楽天ポイントカードを店頭で無料配布してます。",
+    "link":"https://pointcard.rakuten.co.jp/partner/sukiya/"
+  },
   "セブンイレブン":{
     "link":"[公式サイト](https://www.sej.co.jp/cmp/)"
   },
@@ -57,15 +61,23 @@
   "ダイコクドラッグ":{
     "basic":"ダイコクドラッグは楽天ポイントカードにもなっている独自のポイントカードを発行していて、毎月３日・２０日は楽天ポイント５倍です。"
   },
+  "ツルハ":{
+    "basic":"店舗で楽天カードを配布してます。ちょっとカードのデザインが恥ずかしい・・・",
+    "link":"https://pointcard.rakuten.co.jp/partner/tsuruha/"
+  },
   "ドトール":{
     "basic":"日本最大の店舗数を誇るドトールは2019年4月にTポイントを廃止し、2019年6月からdポイントに対応してます。2019年9月にd払いではなくQUICPayとiDに対応。そのうちd払いも対応するのでしょうか。",
     "link":"[公式サイト](https://www.doutor.co.jp/news/newsrelease/detail/20190816134949.html)"
   },
-  "ライフ":{
-    "link":"[公式サイト](http://www.lifecorp.jp/service/sumahokessai/)"
+  "ミスタードーナツ":{
+    "basic":"楽天ポイントが貯まるカードを配布してます。ポイント還元よりRakuten Point Screenアプリで貰えるクーポンが狙い目ですね",
+    "link":"https://pointcard.rakuten.co.jp/partner/misterdonut/"
   },
   "ユニクロ":{
     "link":"[ニュースリリース](https://www.uniqlo.com/jp/corp/pressrelease/)"
+  },
+  "ライフ":{
+    "link":"[公式サイト](http://www.lifecorp.jp/service/sumahokessai/)"
   },
   "大戸屋":{
     "basic":"大戸屋は店舗で楽天ポイントカード機能付きの大戸屋カードを配布。楽天一筋ですね。",
