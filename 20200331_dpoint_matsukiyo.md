@@ -7,7 +7,6 @@ featured_image: "/posts/20200331_dpoint_matsukiyo.md.png"
 tags: ["dpoint","マツモトキヨシ"]
 rate: 10
 max: 1000
-draft: true
 ---
 
 03月01日から03月31日までマツモトキヨシでdポイント20倍（つまり10%還元相当）です。
