@@ -3,6 +3,14 @@
     "trans":"au PAY",
     "color":(233,85,30),
   },
+  "cokeon":{
+    "trans":"Coke ON",
+    "basic":"コカコーラの自販機と連携できるアプリ。PayPayやLINEのキャンペーンのほか、自販機でドリンクを買うたびにもらえるスタンプを15個でドリンクチケットが貰えるなど盛りだくさんです。",
+    "link":"https://c.cocacola.co.jp/app/"
+  },
+  "didiタクシー":{
+    "trans":"DiDiタクシー"
+  },
   "docomo":{
     "trans":"d払い",
     "color":(202,8,55),
@@ -12,10 +20,20 @@
     "trans":"dポイント",
     "color":(202,8,55),
   },
+  "joshin":{
+    "basic":"年会費無料のジョーシンカードでポイントを貯められるほか、楽天ポイント/d払い/dポイントに対応してます。",
+    "link":"https://dpoint.jp/store/item/?id=11484&tab=acc"
+  },
+  "keyuca":{
+    "basic":"ポイントカードのほか、LINEでともだち登録することで10%OFFなどのクーポンが貰えます",
+    "link":"https://www.keyuca.com/point/"
+  },
   "line":{
     "trans":"LINE PAY",
     "color":(202,8,55),
     "link":"[公式サイト](https://line.me/ja/pay/merchant)",
+  },
+  "olympic":{
   },
   "rakuten":{
     "trans":"楽天ペイ",
@@ -38,9 +56,6 @@
   "merpay":{
     "trans":"メルペイ",
     "color":(252,13,34),
-  },
-  "didiタクシー":{
-    "trans":"DiDiタクシー"
   },
   "pronto":{
     "trans":"PRONTO",
