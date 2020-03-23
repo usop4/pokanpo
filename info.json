@@ -34,6 +34,8 @@
     "link":"[公式サイト](https://line.me/ja/pay/merchant)",
   },
   "olympic":{
+    "trans":"Olympic",
+    "basic":"2019年11月にPayPayに対応しました。CoGCa（コジカ）という電子マネーにも対応してます。"
   },
   "rakuten":{
     "trans":"楽天ペイ",
