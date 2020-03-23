@@ -3,6 +3,7 @@ title: "au PAY誰でも毎週10億円"
 date: 2020-03-02T18:32:34+09:00
 start: 2020-03-03
 end: 2020-03-29
+featured_image: "/posts/20200329_aupay_everyweek.md.png"
 dates: 2020-03-02,2020-03-09,2020-03-10,2020-03-11,2020-03-16,2020-03-23
 tags: ["aupay"]
 rate: 20
