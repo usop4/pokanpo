@@ -9,3 +9,5 @@ tags: ["paypay","デニーズ"]
 https://paypay.ne.jp/notice/20200318/02/
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">デニーズ・幸楽苑がPayPayに対応→4月に20%還元🍽️<br><br>✅4/1～デニーズ系列、幸楽苑がPayPayに対応<br>✅4月のPayPay×飲食店 20%還元の対象に<br><br>＜PayPay×飲食店＞<br>🔻対象の飲食店で20%<br>🔻プレミアム会員は25％<br>🔻上限：3,000円/合計、2,000円/回<br><br>近くに店舗がある方は要チェック🙌<a href="https://t.co/nOxkrST1Ct">https://t.co/nOxkrST1Ct</a></p>&mdash; ペイさん@キャッシュレス×お得情報ブロガー (@pay_cashless) <a href="https://twitter.com/pay_cashless/status/1240409903878946816?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">デニーズと幸楽苑がPayPay決済に対応　4月の20％還元の対象に<a href="https://t.co/2FYdK8gJ31">https://t.co/2FYdK8gJ31</a></p>&mdash; ITmedia NEWS (@itmedia_news) <a href="https://twitter.com/itmedia_news/status/1240198770312110082?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
