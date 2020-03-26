@@ -90,13 +90,17 @@
     "basic":"日本最大の店舗数を誇るドトールは2019年4月にTポイントを廃止し、2019年6月からdポイントに対応してます。2019年9月にd払いではなくQUICPayとiDに対応。そのうちd払いも対応するのでしょうか。",
     "link":"[公式サイト](https://www.doutor.co.jp/news/newsrelease/detail/20190816134949.html)"
   },
-  "ミスタードーナツ":{
-    "basic":"楽天ポイントが貯まるカードを配布してます。ポイント還元よりRakuten Point Screenアプリで貰えるクーポンが狙い目ですね",
-    "link":"https://pointcard.rakuten.co.jp/partner/misterdonut/"
+  "なか卯":{
+    "basic":"2020年4月からLINE PAY、メルペイ、PayPayに対応。",
+    "link":"https://www.nakau.co.jp/jp/news/620"
   },
   "ファーストキッチン":{
     "basic":"ウェンディーズとファーストキッチンで使えるチャージできるポイントカード「マイファーストカード」は利用額に応じて最大15%という高い還元率。最近はdポイントも貯まります。",
     "link":"https://dpoint.jp/store/item/index.html?id=262563"
+  },
+  "ミスタードーナツ":{
+    "basic":"楽天ポイントが貯まるカードを配布してます。ポイント還元よりRakuten Point Screenアプリで貰えるクーポンが狙い目ですね",
+    "link":"https://pointcard.rakuten.co.jp/partner/misterdonut/"
   },
   "ユニクロ":{
     "link":"[ニュースリリース](https://www.uniqlo.com/jp/corp/pressrelease/)"
