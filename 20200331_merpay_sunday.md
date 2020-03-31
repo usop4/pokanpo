@@ -3,7 +3,6 @@ title: "メルペイサンデー毎週日曜20%還元"
 date: 2020-03-01T06:58:18+09:00
 start: 2020-03-01
 end: 2020-03-31
-featured_image: "/posts/20200331_merpay_sunday.md.png"
 dates: 2020-03-01,2020-03-08,2020-03-15,2020-03-22,2020-03-29
 tags: ["merpay"]
 rate: 20

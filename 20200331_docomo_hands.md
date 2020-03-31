@@ -3,7 +3,6 @@ title: "ハンズでdポイント１周年10,000ポイントプレゼント"
 date: 2020-03-06T18:46:32+09:00
 start: 2020-03-06
 end: 2020-03-31
-featured_image: "/posts/20200331_docomo_hands.md.png"
 tags: ["dpoint","東急ハンズ"]
 hidden: all
 ---

@@ -3,7 +3,6 @@ title: "マツモトキヨシでdポイント20倍（先着100万名）"
 date: 2020-03-02T21:19:56+09:00
 start: 2020-03-01
 end: 2020-03-31
-featured_image: "/posts/20200331_dpoint_matsukiyo.md.png"
 tags: ["dpoint","マツモトキヨシ"]
 rate: 10
 max: 1000

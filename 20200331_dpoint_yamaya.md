@@ -3,7 +3,6 @@ title: "やまや50周年でdポイント+50ポイント"
 date: 2020-01-20T10:39:58+09:00
 start: 2020-01-20
 end: 2020-03-31
-featured_image: "/posts/20200331_dpoint_yamaya.md.png"
 tags: ["dpoint","やまや"]
 hidden: all
 ---

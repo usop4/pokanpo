@@ -3,7 +3,6 @@ title: "メルペイでまちのお店フィーバー最大50%"
 date: 2020-02-28T06:52:38+09:00
 start: 2020-03-15
 end: 2020-03-31
-featured_image: "/posts/20200331_merpay_machi.md.png"
 tags: ["merpay","100満ボルト","japantaxi","エディオン","ゲオ","サミット","ソフマップ","ビックカメラ","ブックオフ","ライフ"]
 rate: 50
 limit: 500

@@ -3,7 +3,6 @@ title: "ローソンで春のdポイント祭"
 date: 2020-03-10T19:27:27+09:00
 start: 2020-03-06
 end: 2020-03-30
-featured_image: "/posts/20200330_docomo_lawson.md.png"
 tags: ["dpoint","ローソン"]
 ---
 
