@@ -3,6 +3,7 @@ title: "吉野家”d払いアプリで50%還元"
 date: 2020-04-02 16:52:51+0900
 start: 2020-04-13
 end: 2020-05-10
+featured_image: "/posts/20200510_docomo_yoshinoya.md.png"
 tags: ["docomo","吉野家"]
 rate: 50
 limit: 500
