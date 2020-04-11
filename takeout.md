@@ -5,6 +5,8 @@ date: 2020-04-11 17:29:19+0900
 
 コロナウイルスの影響で飲食店から足が遠のいてしまいがちですが、テイクアウトも活用して乗り切りましょう。
 
+掲載したい店舗等ございましたら[github](https://github.com/usop4/pokanpo/)からお寄せください。
+
 [ウェンディーズ](https://pokanpo.com/tags/ウェンディーズ)
 
 ![](https://pokanpo.com/shops/ウェンディーズ.png)
