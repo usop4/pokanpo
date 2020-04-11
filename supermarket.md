@@ -5,6 +5,8 @@ date: 2020-04-11 20:34:51+0900
 
 コロナウイルス対策で大変な思いをしている店員さんに感謝を示しつつ、上手にキャッシュレスも駆使していきましょう。
 
+掲載したいスーパーマーケット等ございましたら[github](https://github.com/usop4/pokanpo/)からお寄せください。
+
 [サミット](https://pokanpo.com/tags/サミット)
 
 ![](https://pokanpo.com/shops/サミット.png)
