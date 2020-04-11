@@ -63,3 +63,11 @@ date: 2020-04-11 17:29:19+0900
 [ロッテリア](https://pokanpo.com/tags/ロッテリア)
 
 ![](https://pokanpo.com/shops/ロッテリア.png)
+
+[吉野家](https://pokanpo.com/tags/吉野家)
+
+![](https://pokanpo.com/shops/吉野家.png)
+
+[松屋](https://pokanpo.com/tags/松屋)
+
+![](https://pokanpo.com/shops/松屋.png)
