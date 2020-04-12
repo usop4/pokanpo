@@ -125,58 +125,178 @@
   "サンマルクカフェ":{
     "tag":"コーヒー"
   },
+  "ジュンク堂":{
+    "tag":"書店"
+  },
+  "ジョイフル本田":{
+    "tag":"ホームセンター"
+  },
+  "ジョナサン":{
+    "tag":"ファミレス"
+  },
   "すき家":{
     "basic":"店舗数日本一のすき家は楽天ポイントカードを店頭で無料配布してます。",
     "link":"https://pointcard.rakuten.co.jp/partner/sukiya/",
+  },
+  "スギ薬局":{
+    "tag":"ドラッグストア"
+  },
+  "スシロー":{
+    "tag":"寿司"
+  },
+  "スターバックス":{
+    "tag":"コーヒー"
+  },
+  "セイコーマート":{
+    "tag":"スーパーマーケット"
+  },
+  "セイムス":{
+    "tag":"ドラッグストア"
   },
   "セブンイレブン":{
     "link":"[公式サイト](https://www.sej.co.jp/cmp/)",
     "tag":"コンビニ"
   },
-  "ダイソー":{
-    "basic":"2019年10月からPayPayに対応してます。",
-    "link":"[公式サイト](https://www.daiso-sangyo.co.jp/info/important/2539)"
-  },
   "ダイコクドラッグ":{
     "basic":"ダイコクドラッグは楽天ポイントカードにもなっている独自のポイントカードを発行していて、毎月３日・２０日は楽天ポイント５倍です。",
     "tag":"ドラッグストア"
+  },
+  "ダイソー":{
+    "basic":"2019年10月からPayPayに対応してます。",
+    "link":"[公式サイト](https://www.daiso-sangyo.co.jp/info/important/2539)"
   },
   "ツルハ":{
     "basic":"店舗で楽天カードを配布してます。ちょっとカードのデザインが恥ずかしい・・・",
     "link":"https://pointcard.rakuten.co.jp/partner/tsuruha/",
     "tag":"ドラッグストア"
   },
+  "デニーズ":{
+    "tag":"ファミレス"
+  },
   "ドトール":{
     "basic":"日本最大の店舗数を誇るドトールは2019年4月にTポイントを廃止し、2019年6月からdポイントに対応してます。2019年9月にd払いではなくQUICPayとiDに対応。そのうちd払いも対応するのでしょうか。",
-    "link":"[公式サイト](https://www.doutor.co.jp/news/newsrelease/detail/20190816134949.html)"
+    "link":"[公式サイト](https://www.doutor.co.jp/news/newsrelease/detail/20190816134949.html)",
+    "tag":"コーヒー"
+  },
+  "トモズ":{
+    "tag":"ドラッグストア"
+  },
+  "ドラッグイレブン":{
+    "tag":"ドラッグストア"
   },
   "なか卯":{
     "basic":"2020年4月からLINE PAY、メルペイ、PayPayに対応。",
-    "link":"https://www.nakau.co.jp/jp/news/620"
+    "link":"https://www.nakau.co.jp/jp/news/620",
+  },
+  "ノジマ":{
+    "tag":"家電"
+  },
+  "バーガーキング":{
+    "tag":"ファーストフード"
+  },
+  "バーミヤン":{
+    "tag":"ファミレス"
+  },
+  "ぱぱす":{
+    "tag":"ドラッグストア"
+  },
+  "はま寿司":{
+    "tag":"寿司"
+  },
+  "ピザハット":{
+    "tag":"ピザ"
+  },
+  "ビックカメラ":{
+    "tag":"家電"
+  },
+  "ビックボーイ":{
+    "tag":"ファミレス"
   },
   "ファーストキッチン":{
     "basic":"ウェンディーズとファーストキッチンで使えるチャージできるポイントカード「マイファーストカード」は利用額に応じて最大15%という高い還元率。最近はdポイントも貯まります。",
-    "link":"https://dpoint.jp/store/item/index.html?id=262563"
+    "link":"https://dpoint.jp/store/item/index.html?id=262563",
+    "tag":"ファーストフード"
+  },
+  "ブックオフ":{
+    "tag":"書店"
+  },
+  "フレッシュネスバーガー":{
+    "tag":"ファーストフード"
+  },
+  "ベイシア":{
+    "tag":"スーパーマーケット"
+  },
+  "ベルク":{
+    "tag":"スーパーマーケット"
+  },
+  "マクドナルド":{
+    "tag":"ファーストフード"
+  },
+  "マツモトキヨシ":{
+    "tag":"ドラッグストア"
+  },
+  "マルエツ":{
+    "tag":"スーパーマーケット"
   },
   "ミスタードーナツ":{
+    "tag":"ファーストフード"
     "basic":"楽天ポイントが貯まるカードを配布してます。ポイント還元よりRakuten Point Screenアプリで貰えるクーポンが狙い目ですね",
     "link":"https://pointcard.rakuten.co.jp/partner/misterdonut/"
+  },
+  "ミニストップ":{
+    "tag":"コンビニ"
+  },
+  "モスバーガー":{
+    "tag":"ファーストフード"
+  },
+  "ヤマダ電機":{
+    "tag":"家電"
+  },
+  "やまや":{
+    "tag":"ワイン"
   },
   "ユニクロ":{
     "link":"[ニュースリリース](https://www.uniqlo.com/jp/corp/pressrelease/)"
   },
   "ライフ":{
+    "tag":"スーパーマーケット",
     "link":"[公式サイト](http://www.lifecorp.jp/service/sumahokessai/)"
+  },
+  "ロイヤルホスト":{
+    "tag":"ファミレス"
+  },
+  "ローソン":{
+    "tag":"コンビニ"
+  },
+  "ロッテリア":{
+    "tag":"ファーストフード"
+  },
+  "丸善":{
+    "tag":"書店"
+  },
+  "上島珈琲店":{
+    "tag":"コーヒー",  
+    "basic":"PayPay、LINE Pay、WeChatPay、Alipay、d払い、楽天ペイに対応し、コーヒー界隈では最も充実してる部類かと思います。",
+    "link":"https://www.ueshima-coffee-ten.jp/product/?category=campaign&item=9528"
+  },
+  "成城石井":{
+    "tag":"スーパーマーケット"
   },
   "大戸屋":{
     "basic":"大戸屋は店舗で楽天ポイントカード機能付きの大戸屋カードを配布。楽天一筋ですね。",
     "link":"https://pointcard.rakuten.co.jp/campaign/ootoya/spotevents/20190401",
   },
-  "上島珈琲店":{
-      "basic":"PayPay、LINE Pay、WeChatPay、Alipay、d払い、楽天ペイに対応し、コーヒー界隈では最も充実してる部類かと思います。",
-      "link":"https://www.ueshima-coffee-ten.jp/product/?category=campaign&item=9528"
+  "東急ストア":{
+    "tag":"スーパーマーケット"
+  },
+  "東急ハンズ":{},
+  "福太郎":{
+    "tag":"ドラッグストア"
   },
   "無印良品":{
       "color":(125,3,28)
+  },
+  "藍屋":{
+    "tag":"ファミレス"
   },
 }
