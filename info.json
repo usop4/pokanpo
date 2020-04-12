@@ -1,4 +1,6 @@
 {
+  "aoki":{
+  }
   "aupay":{
     "trans":"au PAY",
     "color":(233,85,30),
@@ -20,6 +22,9 @@
     "trans":"dポイント",
     "color":(202,8,55),
   },
+  "japantaxi":{
+    "tag":"タクシー"
+  },
   "joshin":{
     "basic":"年会費無料のジョーシンカードでポイントを貯められるほか、楽天ポイント/d払い/dポイントに対応してます。",
     "link":"https://dpoint.jp/store/item/?id=11484&tab=acc"
@@ -28,14 +33,31 @@
     "basic":"ポイントカードのほか、LINEでともだち登録することで10%OFFなどのクーポンが貰えます",
     "link":"https://www.keyuca.com/point/"
   },
+  "kirin":{},
   "line":{
     "trans":"LINE PAY",
     "color":(202,8,55),
     "link":"[公式サイト](https://line.me/ja/pay/merchant)",
   },
+  "mercari":{
+    "trans":"メルカリ"
+  },
+  "merpay":{
+    "trans":"メルペイ",
+  },
   "olympic":{
     "trans":"Olympic",
     "basic":"2019年11月にPayPayに対応しました。CoGCa（コジカ）という電子マネーにも対応してます。"
+  },
+  "paypay":{
+    "trans":"PayPay",
+    "color":(252,13,58),
+    "paypay":"[公式サイト](https://paypay.ne.jp/shop/)",
+  },
+  "pronto":{
+    "trans":"PRONTO",
+    "basic":"プロン党Edy-楽天ポイントカードは500円かかるけどドリンクが10%OFFだったりハイボールやワインがアップグレードする月１〜２回は通うなら持っておきたいカード",
+    "link":"https://www.pronto.co.jp/enjoy/memberscard.html"
   },
   "rakuten":{
     "trans":"楽天ペイ",
@@ -46,27 +68,62 @@
     "trans":"楽天ポイント",
     "color":(189,5,16),
   },
+  "tappiness":{},
   "tpoint":{
     "trans":"Tポイント",
     "color":(7,67,150),
   },
-  "paypay":{
-    "trans":"PayPay",
-    "color":(252,13,58),
-    "paypay":"[公式サイト](https://paypay.ne.jp/shop/)",
+  "yahoo":{},
+  "zaim":{},
+  "いなげや":{
+    "tag":"ドラッグストア"
   },
-  "merpay":{
-    "trans":"メルペイ",
-    "color":(252,13,34),
-  },
-  "pronto":{
-    "trans":"PRONTO",
-    "basic":"プロン党Edy-楽天ポイントカードは500円かかるけどドリンクが10%OFFだったりハイボールやワインがアップグレードする月１〜２回は通うなら持っておきたいカード",
-    "link":"https://www.pronto.co.jp/enjoy/memberscard.html"
+  "ウエルシア":{
+    "tag":"ドラッグストア"
   },
   "ウェンディーズ":{
     "basic":"ウェンディーズとファーストキッチンで使えるチャージできるポイントカード「マイファーストカード」は利用額に応じて最大15%という高い還元率。最近はdポイントも貯まります。",
     "link":"https://dpoint.jp/store/item/index.html?id=262563"
+  },
+  "エクセルシオール":{
+    "tag":"コーヒー"
+  },
+  "エディオン":{
+    "tag":"家電"
+  },
+  "オーケー":{
+    "tag":"スーパー"
+  },
+  "ガスト":{
+    "tag":"ファミレス"
+  },
+  "かっぱ寿司":{
+    "tag":"寿司"
+  },
+  "かっぽうぎ":{},
+  "グラッチェガーデンズ":{
+    "tag":"ファミレス"
+  },
+  "くら寿司":{
+    "tag":"寿司"
+  },
+  "ケンタッキー・フライド・チキン":{
+    "tag":"ファーストフード"
+  },
+  "ココカラファイン":{
+    "tag":"ドラッグストア"
+  },
+  "ココス":{
+    "tag":"ファミレス"
+  },
+  "サミット":{
+    "tag":"スーパーマーケット"
+  },
+  "サンドラッグ":{
+    "tag":"ドラッグストア"
+  },
+  "サンマルクカフェ":{
+    "tag":"コーヒー"
   },
   "すき家":{
     "basic":"店舗数日本一のすき家は楽天ポイントカードを店頭で無料配布してます。",
