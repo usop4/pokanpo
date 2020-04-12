@@ -15,9 +15,9 @@ date: 2020-04-11 17:29:19+0900
 
 ![](https://pokanpo.com/shops/ガスト.png)
 
-[ケンタッキー・フライド・チキン](https://pokanpo.com/tags/ケンタッキー・フライド・チキン)
+[ケンタッキーフライドチキン](https://pokanpo.com/tags/ケンタッキー・フライド・チキン)
 
-![](https://pokanpo.com/shops/ケンタッキー・フライド・チキン.png)
+![](https://pokanpo.com/shops/ケンタッキーフライドチキン.png)
 
 [ココス](https://pokanpo.com/tags/ココス)
 
