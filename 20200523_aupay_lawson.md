@@ -3,6 +3,7 @@ title: "au PAYでローソン20倍(10%)"
 date: 2020-04-13 22:51:28+0900
 start: 2020-04-13
 end: 2020-05-23
+featured_image: "/posts/20200523_aupay_lawson.md.png"
 dates: 2020-04-13,2020-04-23,2020-05-03,2020-05-13,2020-05-23
 tags: ["aupay","ローソン"]
 rate: 10
