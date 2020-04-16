@@ -112,7 +112,9 @@
     "tag":"寿司"
   },
   "ケンタッキーフライドチキン":{
-    "tag":"ファーストフード"
+    "tag":"ファーストフード",
+    "basic":"2020年4月にLINE Pay/メルペイ/au PAY/PayPay/楽天ペイ/d払いなどに対応。",
+    "link":"http://japan.kfc.co.jp/news_release/news200416kfc.html"
   },
   "ココカラファイン":{
     "tag":"ドラッグストア"
