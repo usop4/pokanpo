@@ -1,5 +1,5 @@
 ---
-title: "PayPay春のグルメまつりキャンペーン20%"
+title: "PayPay春のグルメまつりキャンペーン20％"
 date: 2020-03-05T20:54:24+09:00
 start: 2020-04-01
 end: 2020-04-30
@@ -18,4 +18,3 @@ https://paypay.ne.jp/event/restaurant-20200401/
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">＼4月から春のグルメまつりキャンペーン🌸／<br><br>4月は <a href="https://twitter.com/hashtag/PayPay?src=hash&amp;ref_src=twsrc%5Etfw">#PayPay</a> 残高でのお支払いで20%戻ってくる～😲<br>(付与上限2,000円/回、3,000円/期間)<br><br>対象店舗が続々決定‼️<br>2月キャンペーン対象店舗の約2倍の1万店舗以上がキャンペーンの対象です💡<br>順次こちらのサイトでお知らせします👇<a href="https://t.co/lP0tj24BxC">https://t.co/lP0tj24BxC</a></p>&mdash; PayPay株式会社 (@PayPayOfficial) <a href="https://twitter.com/PayPayOfficial/status/1240230089423388672?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ブログ更新】<br>PayPayが4月から対象の飲食店で20%還元をやります。<br>ヤフープレミアム会員なら25%還元。<br><br>ガストや牛丼屋(吉野家、すき家、松屋)、はま寿司などがあり、対象店舗は1万店以上。<br>4月の対象飲食店ではPayPayがおトクですね。<br>PayPayにとっては普通のキャンペーン<a href="https://t.co/dHER0Cofq4">https://t.co/dHER0Cofq4</a></p>&mdash; 楽々家 (@rakuraku_ka) <a href="https://twitter.com/rakuraku_ka/status/1239691612382322688?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-

@@ -1,5 +1,5 @@
 ---
-title: "KEYUCAでLINE会員10%OFF"
+title: "KEYUCAでLINE会員10％OFF"
 date: 2020-02-14T18:29:17+09:00
 start: 2020-02-14
 end: 2020-02-24
