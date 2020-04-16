@@ -38,7 +38,7 @@
   "kirin":{},
   "line":{
     "trans":"LINE PAY",
-    "color":(32,189,95)
+    "color":(32,189,95),
     "link":"[公式サイト](https://line.me/ja/pay/merchant)",
   },
   "mercari":{
