@@ -3,6 +3,7 @@ title: "ココスでテイクアウトしてdポイント"
 date: 2020-04-19 09:11:07+0900
 start: 2020-04-18
 end: 2020-05-31
+featured_image: "/posts/20200531_dpoint_cocos.md.png"
 tags: ["dpoint","ココス"]
 ---
 
