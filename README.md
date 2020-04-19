@@ -12,7 +12,6 @@ title: "XXでXXポイントXX％還元"
 date: 2020-01-01T20:47:48+09:00
 start: 2020-01-01
 end: 2020-01-01
-featured_image: "/posts/README.md.png"
 tags: ["paypay"]
 rate: 5
 limit: 250
