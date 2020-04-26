@@ -3,7 +3,6 @@ title: "ダイコクドラッグで楽天ペイ・楽天ポイント10％還元"
 date: 2020-03-02T21:00:21+09:00
 start: 2020-03-23
 end: 2020-04-23
-featured_image: "/posts/20200423_rakuten_daikoku.md.png"
 tags: ["rakuten","ダイコクドラッグ"]
 rate: 10
 limit: 1000
