@@ -56,6 +56,10 @@
     "color":(252,13,58),
     "paypay":"[公式サイト](https://paypay.ne.jp/shop/)",
   },
+  "ponta":{
+    "trans":"Ponta",
+    "color":(237,131,35)
+  },
   "pronto":{
     "trans":"PRONTO",
     "basic":"プロン党Edy-楽天ポイントカードは500円かかるけどドリンクが10%OFFだったりハイボールやワインがアップグレードする月１〜２回は通うなら持っておきたいカード",
