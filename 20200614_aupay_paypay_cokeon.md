@@ -1,5 +1,5 @@
 ---
-title: "CokeON+auPAYで毎週100円のPontaポイント"
+title: "CokeON+auPAY/PayPayで毎週100円のPontaポイント"
 date: 2020-05-13 22:28:54+0900
 start: 2020-05-18
 end: 2020-06-14
