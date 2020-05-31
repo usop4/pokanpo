@@ -46,6 +46,7 @@
   },
   "merpay":{
     "trans":"メルペイ",
+    "color":(255,0,15),
   },
   "olympic":{
     "trans":"Olympic",
