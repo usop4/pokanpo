@@ -3,7 +3,6 @@ title: "ローソンでau PAY、Pontaポイント10％還元"
 date: 2020-05-21 22:10:06+0900
 start: 2020-06-01
 end: 2020-06-30
-featured_image: "/posts/20200631_aupay_lawson.md.png"
 dates: 2020-06-03,2020-06-13,2020-06-23
 tags: ["aupay","ローソン","ponta"]
 rate: 10

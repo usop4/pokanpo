@@ -3,7 +3,6 @@ title: "セブンイレブンでPayPay最大1000%"
 date: 2020-06-03 21:10:11+0900
 start: 2020-07-01
 end: 2020-07-31
-featured_image: "/posts/20200731_paypay_seven.md.png"
 tags: ["paypay","セブンイレブン"]
 ---
 
