@@ -3,7 +3,6 @@ title: "やまやでdポイント最大50倍"
 date: 2020-06-02 21:09:41+0900
 start: 2020-06-01
 end: 2020-06-25
-featured_image: "/posts/20200625_dpoint_yamaya.md.png"
 dates: 2020-06-05,2020-06-15,2020-06-25
 tags: ["dpoint","やまや"]
 ---
