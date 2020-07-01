@@ -12,6 +12,8 @@ limit: 300
 
 上限は１回300ポイント、期間全体で3000ポイントですので、4000円ぐらいの買い物を10回しちゃうのがベストですかね。
 
+エントリーが必要ですので、忘れずに。
+
 https://www.au.com/pr/paycpn2020-4/
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">auPAY×Ponta統合キャンペーン！<br><br>●7/1-7/31<br>●エントリー必須(7/1〜)<br>●200円毎に8ポイント(4%〜)<br> 三太郎の日 14ポイント(7%〜)<br>●対象加盟店<br>　ビッカメ、ソフマップ、コジマ<br>　すき家、はま寿司、GEOなど<br><br>7月からauPAYちゃん活躍してくれそうな予感します✌️<a href="https://t.co/fcwi6TUR9i">https://t.co/fcwi6TUR9i</a> <a href="https://t.co/MUycx82QOr">https://t.co/MUycx82QOr</a> <a href="https://t.co/Ui2GotamzI">pic.twitter.com/Ui2GotamzI</a></p>&mdash; ゆずひこ🐈キャッシュレスVTuber (@yuzuhiko_blog) <a href="https://twitter.com/yuzuhiko_blog/status/1277908168954097664?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
