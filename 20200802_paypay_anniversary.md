@@ -13,5 +13,4 @@ limit: 100000
 
 https://paypay.ne.jp/event/anniversary-20200801/
 
-
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">＜各キャンペーンのソース＞<br>✅大感謝ジャンボ<a href="https://t.co/s0olzl8a4i">https://t.co/s0olzl8a4i</a><br><br>✅街のお店でPayPayジャンボ<a href="https://t.co/jDYRBHId1u">https://t.co/jDYRBHId1u</a><br><br>✅PayPayピックアップ<a href="https://t.co/UB6TkbXD7Z">https://t.co/UB6TkbXD7Z</a><br><br>✅マイナポイント<a href="https://t.co/EURNDjPyeG">https://t.co/EURNDjPyeG</a><br><br>個人的にはPayPayピックアップに注目してます😊</p>&mdash; ペイさん@キャッシュレス×お得情報ブロガー (@pay_cashless) <a href="https://twitter.com/pay_cashless/status/1278212796392435714?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
