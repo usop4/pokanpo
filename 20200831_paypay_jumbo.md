@@ -3,7 +3,7 @@ title: "まちのお店でPayPayジャンボ"
 date: 2020-07-01 23:29:14+0900
 start: 2020-08-03
 end: 2020-08-31
-tags: ["PayPay"]
+tags: ["paypay"]
 rate: 1000
 limit: 100000
 ---

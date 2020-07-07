@@ -3,7 +3,7 @@ title: "PayPay3000万ユーザ記念最大２０００％"
 date: 2020-07-01 23:29:14+0900
 start: 2020-08-01
 end: 2020-08-02
-tags: ["PayPay"]
+tags: ["paypay"]
 rate: 2000
 limit: 100000
 ---
