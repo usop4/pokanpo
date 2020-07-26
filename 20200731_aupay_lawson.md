@@ -5,6 +5,7 @@ start: 2020-07-01
 end: 2020-07-31
 dates: 2020-07-03,2020-07-13,2020-07-23
 tags: ["ローソン","aupay"]
+hidden: all
 rate: 4
 limit: 3000
 ---
