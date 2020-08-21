@@ -13,6 +13,8 @@ limit: 1000
 
 個人的にはFrancFrancオリジナルデザインのdポイントカードが気になります。
 
+https://dpoint.jp/cp_2/francfranc_200803_1540/index.html
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">㊗️フランフランdポイント導入でポイント3%バック‼️<a href="https://t.co/PbACSKOQxp">https://t.co/PbACSKOQxp</a><br>✅期間は8月17日〜9月14日<br>✅楽天pay支払いもok<br>✅アプリ100円につき1fun<br>✅ららぽーとならララポイント1%バック<br>➡️ららぽーとのFrancfrancにGO‼️<br>楽天Pの消化ができ、5%還元＋1%のfun付与<br>Francfranc好きには堪まらない😆 <a href="https://t.co/uW9ILXAMuW">pic.twitter.com/uW9ILXAMuW</a></p>&mdash; マネーの犬/財テク好き (@ourmoneybook) <a href="https://twitter.com/ourmoneybook/status/1293514136651878400?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">／<br>先着・総額 1,000万ポイント✨<br>&amp;<br>『Francfrancオリジナルdポイントカード』💕<br>＼<a href="https://twitter.com/hashtag/Francfranc?src=hash&amp;ref_src=twsrc%5Etfw">#Francfranc</a> でお会計の際、<a href="https://twitter.com/hashtag/d%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#dポイントカード</a> のご提示で <a href="https://twitter.com/hashtag/d%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88?src=hash&amp;ref_src=twsrc%5Etfw">#dポイント</a> 3倍プレゼント☺<br><br>対象店舗では、オリジナルdポイントカードも配布中♪<br><br>9/14(月)まで &amp; 要エントリーです！<br>👉<a href="https://t.co/fURtqe9LBC">https://t.co/fURtqe9LBC</a> <a href="https://t.co/dXUyYAneCq">pic.twitter.com/dXUyYAneCq</a></p>&mdash; dポイントクラブ (@dpoint_club) <a href="https://twitter.com/dpoint_club/status/1295632787488116736?ref_src=twsrc%5Etfw">August 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
