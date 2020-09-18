@@ -13,6 +13,9 @@ limit: 500
 
 https://about.paypay.ne.jp/pr/20200917/01/
 
+https://paypay.ne.jp/event/matsuyafoods/
+https://paypay.ne.jp/event/hidakaya/
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">超PayPay祭が開催決定🚀<a href="https://t.co/GQhTrk0lZw">https://t.co/GQhTrk0lZw</a><br><br>&lt;10/17開催&gt;<br>✅ペイペイジャンボ<br>→1等は最大100%<br><br>&lt;10/17〜11/15開催&gt;<br>✅ペイペイピックアップ 20%還元<br>✅マックのモバイルオーダー 10%還元<br>✅松屋や31などの対象店 5〜10%還元<br><br>内容盛り沢山のキャンペーンが開催😍詳細は後ほどまとめます🙌 <a href="https://t.co/zMRnNVKHZY">pic.twitter.com/zMRnNVKHZY</a></p>&mdash; ペイさん@キャッシュレス×お得情報ブロガー (@pay_cashless) <a href="https://twitter.com/pay_cashless/status/1306478449368788995?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">超PayPay祭が開催決定🚀<a href="https://t.co/GQhTrk0lZw">https://t.co/GQhTrk0lZw</a><br><br>&lt;10/17開催&gt;<br>✅ペイペイジャンボ<br>→1等は最大100%<br><br>&lt;10/17〜11/15開催&gt;<br>✅ペイペイピックアップ 20%還元<br>✅マックのモバイルオーダー 10%還元<br>✅松屋や31などの対象店 5〜10%還元<br><br>内容盛り沢山のキャンペーンが開催😍詳細は後ほどまとめます🙌 <a href="https://t.co/zMRnNVKHZY">pic.twitter.com/zMRnNVKHZY</a></p>&mdash; ペイさん@キャッシュレス×お得情報ブロガー (@pay_cashless) <a href="https://twitter.com/pay_cashless/status/1306478449368788995?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
