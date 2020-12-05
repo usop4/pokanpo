@@ -13,8 +13,9 @@ limit: 1000
 ファミリーマートはTポイント、楽天ポイント、dポイントを選べますので、大量に買い物する人は、３つともエントリーして、上限になったら別のポイントに切り替えるということもできるみたいですね。
 
 https://www.family.co.jp/campaign/spot/2011_doublepoint_cp.html
-
 https://pointcard.rakuten.co.jp/campaign/pay/20201124
+https://dpoint.jp/cp_2/familymart_201202_1866/index.html
+
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ファミマでポイント2倍キャンペーン✍️<a href="https://t.co/hIakGCb9CX">https://t.co/hIakGCb9CX</a><br><br>✅期間：12/2〜3/31の水曜・土曜<br>✅還元率：0.5%→1.0%（税込200円で2P）<br>✅還元上限：各社1,000Pまで<br><br>エントリーは12/1から<br>また、月毎のエントリーが必要🤔<br><br>大きなキャンペーンではないですがとりあえずエントリーしとくと良さげ😌</p>&mdash; ペイさん@キャッシュレス×お得情報ブロガー (@pay_cashless) <a href="https://twitter.com/pay_cashless/status/1331441190193938433?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ファミリーマート<br>12/2～3/31<br>水・土限定ポイント2倍<br><br>※毎月各社専用サイトにエントリーが必要<br><br>地味に嬉しいけどめっちゃめんどくさいやつ🥺<a href="https://t.co/GfQ9Py1KAg">https://t.co/GfQ9Py1KAg</a> <a href="https://t.co/BuklBxCRYp">pic.twitter.com/BuklBxCRYp</a></p>&mdash; ash@ (@tanaka100p) <a href="https://twitter.com/tanaka100p/status/1331441582680141825?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
