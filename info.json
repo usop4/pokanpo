@@ -24,6 +24,10 @@
     "trans":"dポイント",
     "color":(202,8,55),
   },
+  "famipay":{
+    "trans":"FamiPay",
+    "color":(45,153,70),
+  },
   "japantaxi":{
     "tag":"タクシー"
   },
