@@ -6,7 +6,12 @@ end: 2021-02-08
 tags: ["famipay","ヤマダ電機","100満ボルト","エディオン"]
 rate: 50
 limit: 3000
+hidden: all
 ---
+※中止になりました※
+
+https://famipay.famidigi.jp/cp/cp007/210119
+
 02月02日から02月08日までヤマダ電機、エディオン、100満ボルト等でFamiPay払い50%還元です。上限は3000円です。
 
 https://famipay.famidigi.jp/cp/cp007/210119/electrical_appliances/
