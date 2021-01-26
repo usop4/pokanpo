@@ -6,7 +6,11 @@ end: 2021-02-01
 tags: ["famipay","魚民","日高屋","来来軒","山内農場","ケンタッキーフライドチキン","CoCo壱番屋","三代目鳥メロ"]
 rate: 50
 limit: 1500
+hidden: all
 ---
+※中止となったようです※
+https://famipay.famidigi.jp/cp/cp007/210119
+
 01月26日から02月01日までFamiPayで魚民・日高屋ほかで50%還元です。上限は1500円です。
 
 https://famipay.famidigi.jp/cp/cp007/210119/restaurant/
