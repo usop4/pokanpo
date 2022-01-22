@@ -52,6 +52,9 @@
     "trans":"メルペイ",
     "color":(255,0,15),
   },
+  "nanaco":{
+    "color":(255,242,14),
+  },
   "olympic":{
     "trans":"Olympic",
     "basic":"2019年11月にPayPayに対応しました。CoGCa（コジカ）という電子マネーにも対応してます。"
