@@ -2,7 +2,7 @@
 title: "Joshinで200ポイント以上つかうと20%還元（要エントリ）"
 date: 2022-02-25 13:15:01+0900
 start: 2022-02-25
-end: 2021-03-03
+end: 2022-03-03
 tags: ["joshin","ponta"]
 rate: 20
 limit: 600
