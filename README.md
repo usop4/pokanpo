@@ -24,8 +24,3 @@ limit: 250
 1月1日から1月2日まで、XXでXXポイントXX％還元です。
 
 ```
-
-有効なタグは下記からお選びください。
-
-https://pokanpo.com/tags.html
-
