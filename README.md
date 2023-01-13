@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # about pokanpo
 
 pokanpoはポイント還元情報を表示するポータルサイトです。このリポジトリにpull requestすることでサイトに掲載している情報の更新ができます。
