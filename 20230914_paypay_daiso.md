@@ -2,11 +2,11 @@
 title: "PayPayスクラッチ１等最大全額"
 date: 2023-09-03 02:07:01+0900
 start: 2023-09-01
-end: 2023-09-30
+end: 2023-09-14
 tags: ["paypay","ダイソー"]
 ---
 
-09月01日から09月30日までPayPayスクラッチ１等最大全額です。
+09月01日から09月14日までPayPayスクラッチ１等最大全額です。
 
 https://paypay.ne.jp/event/paypay-scratch-20230901/
 
