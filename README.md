@@ -6,6 +6,8 @@ draft: true
 
 pokanpoはポイント還元情報を表示するポータルサイトです。このリポジトリにpull requestすることでサイトに掲載している情報の更新ができます。
 
+※現在、github actionsとgithub pagesを活用した運用に移行中です。
+
 # format
 
 新規作成する場合は下記のフォーマットでお願いします。
