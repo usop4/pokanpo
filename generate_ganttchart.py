@@ -5,7 +5,6 @@ chartsize = (720,320)
 bgcolor = (255,255,255)
 
 gchart = elegantt.EleGantt( chartsize, bgcolor)
-gchart.set_font("ipaexg.ttf")
 
 gchart.set_max_day(28)
 
