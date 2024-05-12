@@ -1,15 +1,20 @@
 import elegantt
 import re
+import datetime
 
 chartsize = (720,320)
 bgcolor = (255,255,255)
 
-gchart = elegantt.EleGantt( chartsize, bgcolor)
-gchart.set_font("/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc")
+today = datetime.date.today()+datetime.timedelta(hours=15) 
+
+gchart = elegantt.EleGantt( chartsize, bgcolor,today=today.strftime('%Y-%m-%d'))
+gchart.set_font(
+    regular = "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+    bold = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc")
 
 print(gchart.get_today())
 
-gchart.set_max_day(28)
+gchart.set_max_day(21)
 
 gchart.draw_calendar()
 
