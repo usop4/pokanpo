@@ -5,7 +5,7 @@ import datetime
 chartsize = (720,320)
 bgcolor = (255,255,255)
 
-today = datetime.date.today()+datetime.timedelta(hours=15) 
+today = datetime.date.today()+datetime.timedelta(hours=15)
 
 gchart = elegantt.EleGantt( chartsize, bgcolor,today=today.strftime('%Y-%m-%d'))
 gchart.set_font(
