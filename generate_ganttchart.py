@@ -1,29 +1,29 @@
 import elegantt
-import re
 import datetime
 
-chartsize = (720,320)
-bgcolor = (255,255,255)
+today = (
+    datetime.date.today()
+    + datetime.timedelta(hours=15)
+    ).strftime('%Y-%m-%d')
 
-today = datetime.date.today()+datetime.timedelta(hours=15)
-
-gchart = elegantt.EleGantt( chartsize, bgcolor,today=today.strftime('%Y-%m-%d'))
+gchart = elegantt.EleGantt(today=today, firstday=today)
 gchart.set_font(
-    regular = "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
-    bold = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc")
-
-print(gchart.get_today())
-
+    regular="/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+    bold="/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc")
 gchart.set_max_day(21)
-
-gchart.draw_calendar()
-
 with open("index.md") as file:
-    for line in file:
-        if line[0] == "|":
-            line = line.split("|")
-            if re.match(r'^\d{4}-\d{2}-\d{2}$',line[1]):
-                print(line)
-                gchart.draw_campain(line[1],line[2],line[3])
-
+    content = file.read()
+    events = gchart.parse_markdown(content)
+    gchart.resize(size=(
+        692,
+        60 + len(events)*45 + 10
+    ))
+    gchart.draw_calendar()
+    for event in events:
+        print(event)
+        gchart.draw_campain(
+            event["start"].strftime('%Y-%m-%d'),
+            event["end"].strftime('%Y-%m-%d'),
+            event["title"]
+        )
 gchart.save("ganttchart.png")
