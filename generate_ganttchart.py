@@ -18,6 +18,7 @@ with open("index.md") as file:
         692,
         60 + len(events)*45 + 10
     ))
+    gchart.set_max_day(45)
     gchart.draw_calendar()
     for event in events:
         print(event)
