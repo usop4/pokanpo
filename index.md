@@ -8,7 +8,6 @@
 |2024-07-01|2024-07-31|松屋でdポイント最大400pt|[link](https://dpoint.docomo.ne.jp/cp_2/matsuya_240701_5526/index.html)|
 |2024-07-10|2024-08-06|マクドナルドでdポイント最大７倍|[link](https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_mcdonalds_240710_5492/)|
 |2024-06-18|2024-08-06|マクドナルドでdポイント最大７倍|[link](https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_mcdonalds_240710_5492/)|
-
 |2024-06-21|2024-08-09|超PayPay祭|[link](https://paypay.ne.jp/event/paypay-matsuri202406/)|
 
-[github](https://github.com/usop4/pokanpo)
+contact and contribute on [github](https://github.com/usop4/pokanpo)
