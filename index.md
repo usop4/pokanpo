@@ -3,12 +3,7 @@
 
 |start     |end       |title|desc|
 |----------|----------|-----|----|
-|2024-07-11|2024-07-17|Amazonプライムデーでdポイント3倍|[link](https://www.amazon.co.jp/dp/B0CRDKH9M9)|
-|2024-04-26|2024-07-31|dポイント食べ回りスタンプラリー(要エントリ)|[link](https://dpoint.docomo.ne.jp/cp_2/list_240426_5275/index.html)|
-|2024-07-13|2024-07-28|ハンズ 楽天ポイント5倍（1000円以上）|[link](https://pointcard.rakuten.co.jp/campaign/hands/20240713/)|
-|2024-07-01|2024-07-31|松屋でdポイント最大400pt|[link](https://dpoint.docomo.ne.jp/cp_2/matsuya_240701_5526/index.html)|
-|2024-07-10|2024-08-06|マクドナルドでdポイント最大７倍|[link](https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_mcdonalds_240710_5492/)|
-|2024-06-18|2024-08-06|マクドナルドでdポイント最大７倍|[link](https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_mcdonalds_240710_5492/)|
-|2024-06-21|2024-08-09|超PayPay祭|[link](https://paypay.ne.jp/event/paypay-matsuri202406/)|
+|2024-09-01|2024-09-15|松屋アプリ350万人記念、d払い事前決済10％還元（要エントリ）|[link](https://www.matsuyafoods.co.jp/matsuya/whatsnew/campaign/240901_dbarai.html)|
+|2024-09-01|2024-09-30|日高屋グループ楽天ポイント開始記念２倍（要エントリ）|[link](https://pointcard.rakuten.co.jp/campaign/hiday/20240901/)|
 
 contact and contribute on [github](https://github.com/usop4/pokanpo)
