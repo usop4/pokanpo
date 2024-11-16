@@ -3,7 +3,7 @@
 
 |start     |end       |title|desc|
 |----------|----------|-----|----|
-|2024-10-04|2024-11-03|モスバーガー対象商品dポイント5倍（要エントリ）|[link](https://dpoint.docomo.ne.jp/cp_2/mos-burger_241004_5747/index.html)|
-|2024-10-16|2024-11-15|対象店舗でビオレなど楽天ポイント20%（要エントリ）|[link](https://pointcard.rakuten.co.jp/campaign/hiday/20240901/)|
+|2024-11-15|2024-12-31|ビックカメラ dポイント３倍（要エントリ）|[link](https://dpoint.docomo.ne.jp/cp_7/biccamera_241115_5904/index.html)|
+|2024-11-23|2024-12-08|ハンズ dポイント５倍（要エントリ）|[link](https://info.hands.net/campaign/dpoint-2411.html)|
 
 contact and contribute on [github](https://github.com/usop4/pokanpo)
