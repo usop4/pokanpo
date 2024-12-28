@@ -7,7 +7,7 @@ today = (
     ).strftime('%Y-%m-%d')
 
 g = elegantt.EleGantt(today=today, firstday=today)
-g.parse_color_schema('{"bg_color":[255,255,255],"bar_color":[100,149,237]}')
+# g.parse_color_schema('{"bg_color":[255,255,255],"bar_color":[100,149,237]}')
 g.set_font(
     regular="/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
     bold="/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc")
