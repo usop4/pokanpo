@@ -3,7 +3,7 @@
 
 |start     |end       |title|desc|
 |----------|----------|-----|----|
-|2025-08-01|2025-09-30|dポイント10周年、総額１億ポイント(要エントリ)|[link](https://dpoint.docomo.ne.jp/cp_7/list_250801_6448/index.html?)|
-|2025-08-04|2025-08-17|ハンズでPayPay3000円以上で5%（クーポン）|[link](https://info.hands.net/campaign/2508-paypay.html)|
+|2025-10-04|2025-10-10|Amazonでd払いを使うと+50%還元チャンス|[link](https://service.smt.docomo.ne.jp/keitai_payment/campaign/ws_NT25001CM1ST3042_2510/)|
+|2025-10-04|2025-10-10|マツキヨココカラdポイントカード提示で10万名に最大1000ポイント|[link](https://dpoint.docomo.ne.jp/cp_7/matsukiyo_250801_6541/index.html)|
 
 contact and contribute on [github](https://github.com/usop4/pokanpo)
